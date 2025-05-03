@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CelloSerenity
-- 👀 I’m interested in ... iDevice tricks, emulators, JIT.
-- 🌱 I’m currently learning ... Python, Markdown (new to GitHub).
+- 👀 I’m interested in ... iDevice sideloading, emulators, JIT.
+- 🌱 I’m currently learning ... Python, Markdown (new to GitHub), relearning html.
 - 💞️ I’m looking to collaborate on ... any PRs I send.
 - 📫 How to reach me ... TBD
 - 😄 Pronouns: ... He/him
