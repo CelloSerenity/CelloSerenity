@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... iOS/iPadOS sideloading, emulators, JIT, GitHub.
 - 🌱 I’m currently learning ... Python, Markdown (new to GitHub), relearning html.
 - 💞️ I’m looking to collaborate on ... any PRs I send.
-- 📫 How to reach me ... TBD (I'm below 18 and very strict about my privacy. We'll see.)
+- 📫 How to reach me ... TBD (I'm under 18 and very strict about my privacy. We'll see.)
 - 😄 Pronouns: ... He/him
 - ⚡ Fun fact: ... I'm sleep deprived.
 - 
