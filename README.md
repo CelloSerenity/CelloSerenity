@@ -6,7 +6,9 @@
 - 😄 Pronouns: ... He/him
 - ⚡ Fun fact: ... I'm sleep deprived.
 
-A little bit about me- I've loved everything about coding from a very young age, but only very recently have had the time/resources to explain my knowledge past the "Scratch" blocks I grew up with. Recently, I have been able to learn a little more. Currently working on Python in my schooling, and html/markdown/documentation/GitHub practices in my spare time (which I don't have much of for the time being). Future projects: C++, we'll see.
+A little bit about me- I've loved everything about coding from a very young age, but only very recently have had the time/resources to explain my knowledge past the "Scratch" blocks I grew up with. Recently, I have been able to learn a little more. Currently working on Python at school, and markdown/html/css (documentation) and learning to use GitHub in my spare time (which I don't have much of).
+
+What's next for me: C++, we'll see what else.
 
 PSA- I love SideStore!
 
