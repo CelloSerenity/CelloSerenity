@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... iOS/iPadOS sideloading, retro/modern emulation, JIT recompilation, GitHub.
 - 🌱 I’m currently learning ... Python, GitHub practices.
 - 💞️ I’m looking to collaborate on ... any PRs I send.
-- 📫 How to reach me ... Drop an issue on my ReadMe. I'm very strict about my privacy, so this is the best I can do for now (don't even have a Discord))
+- 📫 How to reach me ... Drop an issue on my ReadMe. I'm very strict about my privacy, so this is the best I can do for now, sorry)
 - 😄 Pronouns: ... He/him
 - ⚡ Fun fact: ... I'm sleep deprived.
 
