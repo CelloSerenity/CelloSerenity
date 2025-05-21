@@ -9,7 +9,6 @@
 A little bit about me- I've loved everything about coding from a very young age, but only very recently have had the time/resources to expand my knowledge past the "Scratch" blocks I grew up with. Recently, I have been able to learn a little more--currently working on Python at school, Markdown/html/css (documentation) and learning to use GitHub in my spare time.
 
 What's next for me: C++, we'll see what else.
-
-PSA- I love SideStore!
+My iOS setup: SideStore (sorry Alt), StikDebug, LiveContainer
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CelloSerenity&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
