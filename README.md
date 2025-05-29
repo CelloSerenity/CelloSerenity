@@ -15,6 +15,9 @@ Learning in my spare time: GitHub practices (in general)
 Looking into: Rust
 
 My iOS setup: SideStore (sorry AltStore, the computerless refresh is a deal-breaker), StikDebug, LiveContainer
+
+Visuals (because why not):
+
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CelloSerenity&theme=github" width="66%" />
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CelloSerenity&theme=github" width="32%" />
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CelloSerenity&theme=github">
