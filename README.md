@@ -6,9 +6,13 @@
 - 😄 Pronouns: ... He/him
 - ⚡ Fun fact: ... I'm sleep deprived.
 
-What can I do: Python
+What can I do: Python, Markdown, basic html
+
 What's next: C++
-Learning in my spare time: Markdown, html, GitHub practices (in general)
+
+Learning in my spare time: GitHub practices (in general)
+
+Looking into: Rust
 
 My iOS setup: SideStore (sorry AltStore, the computerless refresh is a deal-breaker), StikDebug, LiveContainer
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CelloSerenity&theme=github" width="66%" />
