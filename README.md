@@ -1,14 +1,16 @@
 - 👋 Hi, I’m @CelloSerenity
-- 👀 I’m interested in ... iOS/iPadOS sideloading, retro/modern emulation, JIT recompilation, GitHub.
+- 👀 I’m interested in ... iOS/iPadOS sideloading, emulation, JIT recompilation, GitHub.
 - 🌱 I’m currently learning ... Python, GitHub practices.
 - 💞️ I’m looking to collaborate on ... any PRs I send.
-- 📫 How to reach me ... Drop an issue on my ReadMe. I'm very strict about my privacy, so this is the best I can do for now, sorry)
+- 📫 How to reach me ... Drop an issue on my ReadMe. (I'm very strict about my privacy, so this is the best I can do for now. Sorry!)
 - 😄 Pronouns: ... He/him
 - ⚡ Fun fact: ... I'm sleep deprived.
 
-A little bit about me- I've loved everything about coding from a very young age, but only very recently have had the time/resources to expand my knowledge past the "Scratch" blocks I grew up with. Recently, I have been able to learn a little more--currently working on Python at school, Markdown/html/css (documentation) and learning to use GitHub in my spare time.
+What can I do: Python
+What's next: C++
+Learning in my spare time: Markdown, html, GitHub practices (in general)
 
-What's next for me: C++, we'll see what else.
-My iOS setup: SideStore (sorry Alt), StikDebug, LiveContainer
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=CelloSerenity&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+My iOS setup: SideStore (sorry AltStore, the computerless refresh is a deal-breaker), StikDebug, LiveContainer
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CelloSerenity&theme=github" width="66%" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CelloSerenity&theme=github" width="32%" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CelloSerenity&theme=github">
