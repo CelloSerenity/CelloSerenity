@@ -6,15 +6,13 @@
 - 😄 Pronouns: ... He/him
 - ⚡ Fun fact: ... I'm sleep deprived.
 
-What can I do: Python, Markdown, basic html
+Coding languages:
+- What can I do: Python, Markdown, basic html
+- What's next: C++
+- Learning in my spare time: GitHub practices (in general)
+- Looking into: Rust
 
-What's next: C++
-
-Learning in my spare time: GitHub practices (in general)
-
-Looking into: Rust
-
-My iOS setup: SideStore (sorry AltStore, the computerless refresh is a deal-breaker), StikDebug, LiveContainer
+My iOS/iPad sideload setup: SideStore (sorry AltStore, the computerless refresh is a deal-breaker), StikDebug, LiveContainer (DiOS, Folium)
 
 Visuals (because why not):
 
