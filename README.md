@@ -12,7 +12,15 @@ Coding languages:
 - Learning in my spare time: GitHub practices (in general)
 - Looking into: Rust
 
-My iOS/iPad sideload setup: SideStore (sorry AltStore, the computerless refresh is a deal-breaker), StikDebug, LiveContainer (DiOS, Folium)
+My iOS/iPadOS sideloading setup:
+
+Free:
+
+SideStore, LiveContainer (DolphiniOS, Amethyst), App Store: StikDebug
+
+Developement Cert:
+
+Provider: NeoSign. Apps: Feather (idevice method), DiOS, Amethyst
 
 Visuals (because why not):
 <div align="center">
