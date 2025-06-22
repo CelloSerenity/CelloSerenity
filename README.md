@@ -15,7 +15,14 @@ Coding languages:
 My iOS/iPad sideload setup: SideStore (sorry AltStore, the computerless refresh is a deal-breaker), StikDebug, LiveContainer (DiOS, Folium)
 
 Visuals (because why not):
-
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CelloSerenity&theme=github" width="66%" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CelloSerenity&theme=github" width="32%" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CelloSerenity&theme=github">
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CelloSerenity&theme=github" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CelloSerenity&theme=github" width="66%" />
+  </picture>
+  
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CelloSerenity&theme=github" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CelloSerenity&theme=github" width="32%" />
+  </picture>
+</div>
