@@ -1,16 +1,16 @@
 - 👋 Hi, I’m @CelloSerenity
-- 👀 I’m interested in ... iOS/iPadOS sideloading, emulation, JIT recompilation, GitHub.
-- 🌱 I’m currently learning ... Python, GitHub practices.
-- 💞️ I’m looking to collaborate on ... any PRs I send.
-- 📫 How to reach me ... Drop an issue on my ReadMe. (I'm very strict about my privacy, so this is the best I can do for now. Sorry!)
-- 😄 Pronouns: ... He/him
+- 👀 I’m interested in ... iOS/iPadOS sideloading, emulation, giving Apple a headache
+- 🌱 I’m currently learning ... everything (I'm really scatterbrained and usually working on 5+ projects at once)
+- 💞️ I’m looking to collaborate on ... any of my PRs
+- 📫 How to reach me ... you can usually find me on the SideStore & idevice Discord servers.
+- 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... I'm sleep deprived.
 
-Coding languages:
-- What can I do: Python, Markdown, basic html
-- What's next: C++
-- Learning in my spare time: GitHub practices (in general)
-- Looking into: Rust
+Languages:
+- What I can do: Python, Markdown/MDX, HTML/CSS, Git
+- What's next (come fall): C++
+- Learning in my spare time: how to have a normal conversation
+- Looking into: Rust, Swift
 
 My iOS/iPadOS sideloading setup:
 
@@ -20,7 +20,7 @@ SideStore, LiveContainer (DolphiniOS, Amethyst), App Store: StikDebug
 
 Development Cert:
 
-Provider: NeoSign (on pause, get a cert from SideStore). Apps: Feather (idevice method), DiOS, Amethyst
+Provider: NeoSign (on pause, get a cert from SideStore Discord). Apps: Feather (idevice method), DiOS, Amethyst
 
 Visuals (because why not):
 <div align="center">
