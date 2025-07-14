@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... any of my PRs
 - 📫 How to reach me ... you can usually find me on the SideStore & idevice Discord servers.
 - 😄 Pronouns: ... he/him
-- ⚡ Fun fact: ... my hobbies include reading, singing, piano, cello, tennis, and more.
+- ⚡ Fun fact: ... I play three instruments.
 
 Languages:
 - What I can do: Python, Markdown/MDX, HTML/CSS, Git
