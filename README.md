@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... any of my PRs
 - 📫 How to reach me ... you can usually find me on the SideStore & idevice Discord servers.
 - 😄 Pronouns: ... he/him
-- ⚡ Fun fact: ... I am bilingual, play two instruments, and sing.
+- ⚡ Fun fact: ... I am bilingual and play two instruments.
 
 Languages:
 - What I can do: Python, Markdown/MDX, HTML/CSS, Git
