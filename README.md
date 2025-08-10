@@ -1,16 +1,15 @@
 - 👋 Hi, I’m @CelloSerenity
 - 👀 I’m interested in ... iOS/iPadOS sideloading, emulation, giving Apple a headache
-- 🌱 I’m currently learning ... everything (I'm really scatterbrained and usually working on 5+ projects at once)
-- 💞️ I’m looking to collaborate on ... any of my PRs
+- 🌱 I’m currently learning ... yes (I'm really scatterbrained and usually looking at 3+ projects at once)
+- 💞️ I’m looking to collaborate on ... any of my PRs ig
 - 📫 How to reach me ... you can usually find me on the SideStore & idevice Discord servers.
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... I'm bilingual and play two instruments.
 
 Languages:
-- What I can do: Python, Markdown/MDX, HTML/CSS, Git
-- What's next (come fall): C++
-- Learning in my spare time: how to have a normal conversation
-- Looking into: Rust, Swift
+- Know: Python, basic HTML/CSS
+- What's next: C++
+- Looking into: Rust, Swift, people-talk
 
 My iOS/iPadOS sideloading setup:
 
