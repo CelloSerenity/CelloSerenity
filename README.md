@@ -8,8 +8,7 @@
 
 Languages:
 - Know: Python, basic HTML/CSS
-- What's next: C++
-- Looking into: Rust, Swift, people-talk
+- Looking into: Rust, Swift
 
 My iOS/iPadOS sideloading setup:
 
