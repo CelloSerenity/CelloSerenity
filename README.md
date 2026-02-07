@@ -1,24 +1,22 @@
 - 👋 Hi, I’m @CelloSerenity
-- 👀 I’m interested in ... iOS/iPadOS sideloading, emulation, making tech do things it's not inherently supposed to (giving Apple a headache)
-- 🌱 I’m currently learning ... yes (I'm usually working on at 4+ repos at once). Working on CompTIA Security+ certification.
+- 👀 I’m interested in ... AppleOS sideloading, emulation, repurposing tech, writing documentation
+- 🌱 I’m currently learning ... whatever comes up on GitHub, working on CompTIA certification
 - 💞️ I’m looking to collaborate on ... any of my PRs
-- 📫 How to reach me ... Idk drop an issue here.
+- 📫 How to reach me ... drop an issue [here](https://github.com/CelloSerenity/GetInTouch/issues/new)
 - 😄 Pronouns: ... he/him
-- ⚡ Fun fact: ... I'm bilingual and play two instruments.
 
 Languages:
-- Know: Python, basic HTML/CSS, Markdown
-- Looking into: Swift, Rust
+- Python
+- HTML/CSS
+- Markdown
+- SQLLite
+- Git
 
 My iOS/iPadOS recommended sideloading setup:
 
 Free Edition (Requires a PC):
 
-App Signer/Sideloader: SideStore. Sideloaded apps: LiveContainer. App Store Apps: StikDebug
-
-Development Certificate Edition:
-
-Certificate Provider: SideStore (obtain from Discord). App Signer/Sideloader: Feather (idevice method). App Store Apps: StikDebug
+App Signer/Sideloader: SideStore. Sideloaded apps: LiveContainer, StikDebug.
 
 Visuals (because why not):
 <div align="center">
