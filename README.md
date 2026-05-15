@@ -8,15 +8,13 @@
 Languages:
 - Python
 - HTML/CSS
-- Markdown
 - SQLLite
-- Git
 
-My iOS/iPadOS recommended sideloading setup:
+Certifications:
+- [CompTIA Tech+](https://www.comptia.org/en-us/certifications/tech/)
 
-Free Edition (Requires a PC):
-
-App Signer/Sideloader: SideStore. Sideloaded apps: LiveContainer, StikDebug.
+Fun projects:
+- [JITserver](https://github.com/CelloSerenity/JITserver)
 
 Visuals (because why not):
 <div align="center">
