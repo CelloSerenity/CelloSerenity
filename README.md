@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CelloSerenity
-- 👀 I’m interested in ... AppleOS sideloading, emulation, repurposing tech, writing documentation
-- 🌱 I’m currently learning ... whatever comes up on GitHub, working on CompTIA certification
-- 💞️ I’m looking to collaborate on ... any of my PRs
+- 👀 I’m interested in ... AppleOS sideloading/tinkering, emulation, repurposing tech, writing documentation
+- 🌱 I’m currently learning ... whatever I'm interested in at the moment
+- 💞️ I’m looking to collaborate on ... any of my PRs I guess
 - 📫 How to reach me ... drop an issue [here](https://github.com/CelloSerenity/GetInTouch/issues/new)
 - 😄 Pronouns: ... he/him
 
