@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CelloSerenity
-- 👀 I’m interested in ... AppleOS sideloading/tinkering, emulation, repurposing tech, writing documentation
+- 👀 I’m interested in ... AppleOS sideloading/tinkering, emulation, "repurposing"(hacking) tech, writing documentation
 - 🌱 I’m currently learning ... whatever I'm interested in at the moment
 - 💞️ I’m looking to collaborate on ... any of my PRs I guess
 - 📫 How to reach me ... drop an issue [here](https://github.com/CelloSerenity/GetInTouch/issues/new)
@@ -7,10 +7,6 @@
 
 [Website](https://celloserenity.dev)
 
-Languages:
-- Python
-- HTML/CSS
-- SQLLite
 
 Certifications:
 - [CompTIA Tech+](https://www.comptia.org/en-us/certifications/tech/)
