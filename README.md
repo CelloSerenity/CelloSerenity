@@ -5,14 +5,10 @@
 - 📫 How to reach me ... drop an issue [here](https://github.com/CelloSerenity/GetInTouch/issues/new)
 - 😄 Pronouns: ... he/him
 
-[Website](https://celloserenity.dev)
 
-
-Certifications:
-- [CompTIA Tech+](https://www.comptia.org/en-us/certifications/tech/)
-
-Fun projects:
+### Fun projects:
 - [JITserver](https://github.com/CelloSerenity/JITserver)
+- [AltDirect](https://github.com/StikDebug/altdirect)
 
 Visuals (because why not):
 <div align="center">
